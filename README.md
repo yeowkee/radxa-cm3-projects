@@ -27,3 +27,10 @@ Send a new PR to this repository on GitHub, append your application table. Radxa
 | Project Software: | |
 | Other Notes:      | pictures: https://twitter.com/arvidep/status/1445363759313297412 |
 
+
+| Project Name:     | GOGO                                  |
+| ----------------- | ----                                  |
+| CM3 Model:        | WiFi, 4GB RAM, 32GB eMMC              |
+| Project Hardware: | Currently the Rpi CM4                 |
+| Project Software: | Raspbian/Linux                        |
+| Other Notes:      |                                       |
